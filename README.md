@@ -1,3 +1,20 @@
+# Contact Form Project
+
+This is a simple contact form that collects full name, email, and message from users and submits the data to a Google Sheet.
+
+## Project Structure
+
+- `index.html`: The HTML file containing the form.
+- `formScript.js`: The JavaScript file that handles form submission.
+- `README.md`: This file, providing information about the project.
+
+## Setup Instructions
+
+### Step 1: Create the HTML Form
+
+Create an `index.html` file with the following content:
+
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -17,4 +34,3 @@
     <script src="formScript.js"></script>
 </body>
 </html>
-
